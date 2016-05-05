@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-cout<<"maha "<<endl;
+cout<<"maha amin"<<endl;
 return 0; 
 }
